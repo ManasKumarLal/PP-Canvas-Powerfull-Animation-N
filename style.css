@@ -16,25 +16,25 @@ html,body{
     position: relative;
     height: 100vh;
     width: 100vw;
-    background-color: #f1f1f1;
+    background-color: rgb(218, 123, 107);
 }
 #page1{
     position: relative;
     height: 100vh;
     width: 100vw;
-    background-color: #f1f1f1;
+    background-color:lightcoral;
 }
 #page2{
     position: relative;
     height: 100vh;
     width: 100vw;
-    background-color: #f1f1f1;
+    background-color: lightpink;
 }
 #page3{
     position: relative;
     height: 100vh;
     width: 100vw;
-    background-color: #f1f1f1;
+    background-color: lightsalmon;
 }
 canvas{
     position: relative;
@@ -98,8 +98,8 @@ canvas{
     position: absolute;
     top: 55%;
     font-family: gilroy;
-    font-weight: 400;
-    color: #7c7c7c;
+    font-weight: 600;
+    color: black;
     left: 5%;
 }
 #page>h4{
